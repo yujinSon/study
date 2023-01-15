@@ -42,7 +42,3 @@ System.out.println(String.format("%,.3f", money)); //결과 : 4,424.243
 , : 자동으로 세 자리마다 ,를 붙여준다.
 
 </details>
-
-<details><summary><b>백준</b><summary>
-
-</details>
