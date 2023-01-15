@@ -39,5 +39,3 @@ System.out.println(String.format("%,.3f", money)); //결과 : 4,424.243
 %다음에 붙는<br>
 숫자 : 숫자+1한 소수점 자리를 반올림한다.<br>
 , : 자동으로 세 자리마다 ,를 붙여준다.
-
-</details>
